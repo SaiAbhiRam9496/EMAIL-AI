@@ -67,6 +67,12 @@ Access: `http://localhost:8000`
 - **Connection Error**: Ensure backend runs on port 5000
 - **CORS Error**: Verify frontend API URL matches backend
 
+## Outputs
+
+- ![Efficient Communication](./Outputs/Efficient%20Communication.jpg)
+- ![Personalized Email Generation](./Outputs/Personalized%20Email%20Generation.jpg)
+- ![Streamlined Workflow](./Outputs/Streamlined%20Workflow.jpg)
+
 ---
 
 **Repository**: https://github.com/SaiAbhiRam9496/EMAIL-AI
